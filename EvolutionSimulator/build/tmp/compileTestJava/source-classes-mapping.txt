@@ -1,0 +1,8 @@
+pl/edu/agh/szubertm/symulatorewolucyjny/logic/mapelement/DNATest.java
+ pl.edu.agh.szubertm.symulatorewolucyjny.logic.mapelement.DNATest
+pl/edu/agh/szubertm/symulatorewolucyjny/logic/mapelement/AnimalTest.java
+ pl.edu.agh.szubertm.symulatorewolucyjny.logic.mapelement.AnimalTest
+pl/edu/agh/szubertm/symulatorewolucyjny/logic/map/MapAreaTest.java
+ pl.edu.agh.szubertm.symulatorewolucyjny.logic.map.MapAreaTest
+pl/edu/agh/szubertm/symulatorewolucyjny/logic/map/WrappedMapTest.java
+ pl.edu.agh.szubertm.symulatorewolucyjny.logic.map.WrappedMapTest

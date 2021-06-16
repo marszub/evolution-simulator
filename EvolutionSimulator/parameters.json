@@ -1,0 +1,10 @@
+{
+  "parallelSimulations": 2,
+  "width": 25,
+  "height": 15,
+  "jungleRatio": 0.2,
+  "numberOfAnimals": 30,
+  "startEnergy": 40,
+  "moveEnergy": 1,
+  "plantEnergy": 30
+}
